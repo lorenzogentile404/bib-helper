@@ -41,4 +41,6 @@ Relevance: 3
 
 Relevance: 4
 
+Number of results: 2866
+
 ```
