@@ -24,3 +24,5 @@ while True:
     for e in result_list:
         print('\n@' + e[0] + '}\n')
         print('Relevance: ' + str(e[1]))
+
+    print('\nNumber of results: ' + str(len(result_list)) + '\n')
